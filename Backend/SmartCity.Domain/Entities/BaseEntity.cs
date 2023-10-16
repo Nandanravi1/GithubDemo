@@ -4,6 +4,10 @@ using System;
 
 namespace SmartCity.Domain.Entities
 {
+
+    /// <summary>
+    /// name her for demo
+    /// </summary>
     public class BaseEntity
     {
         public BaseEntity()
