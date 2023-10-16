@@ -6,7 +6,7 @@ namespace SmartCity.Domain.Entities
 {
 
     /// <summary>
-    /// name her for demo
+    /// name her for demo for demo 
     /// </summary>
     public class BaseEntity
     {
